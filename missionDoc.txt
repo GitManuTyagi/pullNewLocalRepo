@@ -1,0 +1,4 @@
+This is to test to add a file. 
+This should be then pulled into the local machine by the call
+  > git pull origin master
+--- EOF
